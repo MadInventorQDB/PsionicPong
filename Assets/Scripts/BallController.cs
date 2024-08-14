@@ -1,4 +1,6 @@
+using System;
 using UnityEngine;
+using UnityEngine.Audio;
 
 public class BallController : MonoBehaviour
 {
@@ -6,26 +8,44 @@ public class BallController : MonoBehaviour
     private Vector2 direction;
     private Rigidbody2D rb;
 
+    private AudioSource audioSource;
+
+    public event Action OnDestroyed;
+    public event Action OnStarted;
 
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
+
         rb = GetComponent<Rigidbody2D>();
         rb.gravityScale = 0f; // Turn off gravity
 
         float randomAngle;
         // Set initial random direction at 60 degrees left or right randomly.
-        if (Random.Range(-1f, 1f) > 0.0)
+        if (UnityEngine.Random.Range(-1f, 1f) > 0.0)
         {
-            randomAngle = Random.Range(30f, -30f);
+            randomAngle = UnityEngine.Random.Range(30f, -30f);
         }
         else 
         {
-            randomAngle = Random.Range(30f, -30f) + 180f;
+            randomAngle = UnityEngine.Random.Range(30f, -30f) + 180f;
         }
 
         direction = new Vector2(Mathf.Cos(randomAngle * Mathf.Deg2Rad), Mathf.Sin(randomAngle * Mathf.Deg2Rad));
 
         // Apply initial velocity
         rb.linearVelocity = direction * speed;
+
+        OnStarted.Invoke();
+    }
+
+    private void OnDestroy()
+    {
+        OnDestroyed.Invoke();
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        audioSource.Play();
     }
 }

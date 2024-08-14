@@ -1,6 +1,7 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
-public class PaddleController : MonoBehaviour
+public class PaddleControllerPlayer2 : MonoBehaviour
 {
     // Speed factor to control how fast the paddle moves
     public float scrollSpeed = 10f;
@@ -23,8 +24,16 @@ public class PaddleController : MonoBehaviour
 
     void Update()
     {
-        // Get the scroll wheel input (Mouse ScrollWheel)
-        float scrollInput = Input.GetAxis("Mouse ScrollWheel");
+        float scrollInput = 0.0f;
+
+        if (Keyboard.current.oKey.IsPressed())
+        {
+            scrollInput += 0.02f;
+        }
+        if (Keyboard.current.kKey.IsPressed())
+        {
+            scrollInput += -0.02f;
+        }
 
         // Calculate the target Y position based on the scroll input and speed
         targetYPosition += scrollInput * scrollSpeed;
