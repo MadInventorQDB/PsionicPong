@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class PlayController : MonoBehaviour
@@ -6,6 +7,8 @@ public class PlayController : MonoBehaviour
     public GameObject Ball;
 
     private BallController ballController;
+
+    public Action<BallController> OnBallControllerCreated;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -22,6 +25,7 @@ public class PlayController : MonoBehaviour
                 var ballGo = GameObject.Instantiate(Ball);
                 Instructions.SetActive(false);
                 ballController = ballGo.GetComponent<BallController>();
+                OnBallControllerCreated.Invoke(ballController);
                 ballController.OnStarted += BallController_OnStarted;
                 ballController.OnDestroyed += BallController_OnDestroyed;
             }

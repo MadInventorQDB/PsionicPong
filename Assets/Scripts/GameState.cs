@@ -8,7 +8,11 @@ public class GameState : MonoBehaviour
 
     private const string BallTag = "Ball";
     private const string GameStateUITag = "GameStateUI";
-    public GameObject gameStateUI;
+    private GameObject gameStateUI;
+
+    private PaddleControllerPlayer2 paddleControllerPlayer2;
+    private PaddleControllerPlayerAI paddleControllerPlayerAI;
+
 
     private void Awake()
     {
@@ -27,7 +31,10 @@ public class GameState : MonoBehaviour
     void Start()
     {
         gameStateUI = GameObject.FindGameObjectWithTag(GameStateUITag);
-        gameStateUI.SetActive(Time.timeScale == 0.0f);
+        UpdateUIState();
+
+        paddleControllerPlayer2 = FindFirstObjectByType<PaddleControllerPlayer2>();
+        paddleControllerPlayerAI = FindFirstObjectByType<PaddleControllerPlayerAI>();
     }
 
     // Update is called once per frame
@@ -46,19 +53,28 @@ public class GameState : MonoBehaviour
     }
 
     public void Restart1Player()
-    { 
-        
+    {
+        paddleControllerPlayerAI.enabled = true;
+        paddleControllerPlayer2.enabled = false;
+        ResetGame();
     }
 
-    public void Restart2Player() 
+    public void Restart2Player()
+    {
+        paddleControllerPlayerAI.enabled = false;
+        paddleControllerPlayer2.enabled = true;
+        ResetGame();
+    }
+
+    private static void ResetGame()
     {
         ScoreKeeper.Instance.ResetScores();
         var ball = GameObject.FindGameObjectWithTag(BallTag);
         if (ball != null)
-        { 
+        {
             Destroy(ball);
         }
-        UpdateUIState();
+        Instance.UpdateUIState();
     }
 
     public void Quit()
