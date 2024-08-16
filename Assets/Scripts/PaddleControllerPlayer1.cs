@@ -54,4 +54,13 @@ public class PaddleControllerPlayer1 : MonoBehaviour
         // Apply the new position to the paddle
         transform.position = new Vector3(transform.position.x, newYPosition, transform.position.z);
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (targetYPosition != transform.position.y)
+        { 
+            var rb = collision.gameObject.GetComponent<Rigidbody2D>();
+            rb.linearVelocityY += (targetYPosition - transform.position.y);
+        }
+    }
 }
