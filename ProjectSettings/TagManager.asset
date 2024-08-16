@@ -9,6 +9,7 @@ TagManager:
   - GameStateUI
   - Instructions
   - Ball
+  - RightPaddleInstructions
   layers:
   - Default
   - TransparentFX

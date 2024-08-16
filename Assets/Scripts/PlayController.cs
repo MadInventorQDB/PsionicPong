@@ -20,7 +20,8 @@ public class PlayController : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.Return) || Input.GetKey(KeyCode.Space))
         {
-            if (FindFirstObjectByType<BallController>() == null)
+            if (FindFirstObjectByType<BallController>() == null &&
+                Time.timeScale == 1.0f)
             {
                 var ballGo = GameObject.Instantiate(Ball);
                 Instructions.SetActive(false);
