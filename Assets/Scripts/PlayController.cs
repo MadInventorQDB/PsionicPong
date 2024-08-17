@@ -26,7 +26,7 @@ public class PlayController : MonoBehaviour
                 var ballGo = GameObject.Instantiate(Ball);
                 Instructions.SetActive(false);
                 ballController = ballGo.GetComponent<BallController>();
-                OnBallControllerCreated.Invoke(ballController);
+                OnBallControllerCreated?.Invoke(ballController);
                 ballController.OnStarted += BallController_OnStarted;
                 ballController.OnDestroyed += BallController_OnDestroyed;
             }

@@ -32,11 +32,11 @@ public class BallController : MonoBehaviour
         // Apply initial velocity
         rb.linearVelocity = direction * speed;
 
-        OnStarted.Invoke();
+        OnStarted?.Invoke();
     }
 
     private void OnDestroy()
     {
-        OnDestroyed.Invoke();
+        OnDestroyed?.Invoke();
     }
 }
