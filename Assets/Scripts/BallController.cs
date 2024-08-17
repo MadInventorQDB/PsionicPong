@@ -8,15 +8,11 @@ public class BallController : MonoBehaviour
     private Vector2 direction;
     private Rigidbody2D rb;
 
-    private AudioSource audioSource;
-
     public event Action OnDestroyed;
     public event Action OnStarted;
 
     void Start()
     {
-        audioSource = GetComponent<AudioSource>();
-
         rb = GetComponent<Rigidbody2D>();
         rb.gravityScale = 0f; // Turn off gravity
 
@@ -42,10 +38,5 @@ public class BallController : MonoBehaviour
     private void OnDestroy()
     {
         OnDestroyed.Invoke();
-    }
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        audioSource.Play();
     }
 }
