@@ -199,7 +199,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BluePaddleGem_0: 1189003642103723067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

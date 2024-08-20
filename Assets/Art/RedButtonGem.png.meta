@@ -199,7 +199,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RedButtonGem_0: 6868625058627534265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

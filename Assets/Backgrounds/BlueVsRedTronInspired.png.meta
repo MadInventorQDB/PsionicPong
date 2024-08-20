@@ -199,7 +199,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BlueVsRedTronInspired_0: -7488189010741474350
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

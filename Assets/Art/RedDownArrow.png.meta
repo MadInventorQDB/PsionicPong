@@ -199,7 +199,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RedDownArrow_0: -6870826016872460759
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
