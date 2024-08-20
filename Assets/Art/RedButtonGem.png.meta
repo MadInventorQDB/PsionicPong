@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a4df8e2509762bf448f3978f0f443c85
+guid: fa0cad7ad1c2bb842821d55c1e22f8c4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7500559687459518111
-    second: ComfyUI_00003__0
+      213: 6868625058627534265
+    second: RedButtonGem_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -165,13 +165,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ComfyUI_00003__0
+      name: RedButtonGem_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
-        height: 1024
+        width: 677
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,8 +180,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f96b3abcb47571860800000000000000
-      internalID: 7500559687459518111
+      spriteID: 9bd37da6912425f50800000000000000
+      internalID: 6868625058627534265
       vertices: []
       indices: 
       edges: []
@@ -199,8 +199,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      ComfyUI_00003__0: 7500559687459518111
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

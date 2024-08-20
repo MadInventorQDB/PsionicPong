@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="GemArrows.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73851712"
+     inkscape:cx="-77.181691"
+     inkscape:cy="398.09504"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid499" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1587"
+       inkscape:export-filename="BlueDownArrow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g1305"
+         transform="translate(14.057375,-71.706578)">
+        <g
+           id="g934"
+           transform="rotate(180,70.884124,136.94068)">
+          <path
+             style="fill:#55ddff;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-linejoin:round"
+             d="m 23.167851,168.74186 h 25.250895 l 0.224153,-51.94813 H 61.444187 L 36.512496,82.020833 12.092311,117.15199 H 23.28333 Z"
+             id="path450"
+             sodipodi:nodetypes="ccccccc" />
+          <path
+             style="fill:#55ddff;fill-opacity:1;stroke:#00ffff;stroke-width:0.701665;stroke-linejoin:round"
+             d="m 27.22532,164.04167 h 17.717679 l 0.15728,-50.10331 H 54.0825 L 36.588796,89.539424 19.453998,114.18974 h 7.85235 z"
+             id="path450-8"
+             sodipodi:nodetypes="cccccccc" />
+          <path
+             style="fill:#55ddff;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-linejoin:round"
+             d="m 19.453998,114.18974 -7.361687,2.96225"
+             id="path911" />
+          <path
+             style="fill:#55ddff;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-linejoin:round"
+             d="m 36.588796,89.539423 -0.0763,-7.518591"
+             id="path913" />
+          <path
+             style="fill:#55ddff;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-linejoin:round"
+             d="m 54.0825,113.93836 7.361687,2.85537"
+             id="path915" />
+          <path
+             style="fill:#55ddff;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-linejoin:round"
+             d="m 45.100279,113.93836 3.54262,2.85537"
+             id="path917" />
+          <path
+             style="fill:#55ddff;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-linejoin:round"
+             d="m 27.306346,114.18974 -4.023016,2.96225"
+             id="path919" />
+          <path
+             style="fill:#55ddff;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-linejoin:round"
+             d="m 27.22532,164.04167 -4.057469,4.70019"
+             id="path921" />
+          <path
+             style="fill:#55ddff;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-linejoin:round"
+             d="m 44.942998,164.04167 3.475746,4.70019"
+             id="path923" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:14.1111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round"
+           x="100.34568"
+           y="153.55051"
+           id="text990"><tspan
+             sodipodi:role="line"
+             id="tspan988"
+             style="fill:#000000;stroke:#000000;stroke-width:1"
+             x="100.34568"
+             y="153.55051">S</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1572"
+       inkscape:export-filename="BlueUpArrow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g934-5"
+         transform="translate(25.393848,-48.587948)">
+        <path
+           style="fill:#55ddff;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-linejoin:round"
+           d="m 23.167851,168.74186 h 25.250895 l 0.224153,-51.94813 H 61.444187 L 36.512496,82.020833 12.092311,117.15199 H 23.28333 Z"
+           id="path450-9"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           style="fill:#55ddff;fill-opacity:1;stroke:#00ffff;stroke-width:0.701665;stroke-linejoin:round"
+           d="m 27.22532,164.04167 h 17.717679 l 0.15728,-50.10331 H 54.0825 L 36.588796,89.539424 19.453998,114.18974 h 7.85235 z"
+           id="path450-8-1"
+           sodipodi:nodetypes="cccccccc" />
+        <path
+           style="fill:#55ddff;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-linejoin:round"
+           d="m 19.453998,114.18974 -7.361687,2.96225"
+           id="path911-8" />
+        <path
+           style="fill:#55ddff;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-linejoin:round"
+           d="m 36.588796,89.539423 -0.0763,-7.518591"
+           id="path913-8" />
+        <path
+           style="fill:#55ddff;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-linejoin:round"
+           d="m 54.0825,113.93836 7.361687,2.85537"
+           id="path915-6" />
+        <path
+           style="fill:#55ddff;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-linejoin:round"
+           d="m 45.100279,113.93836 3.54262,2.85537"
+           id="path917-0" />
+        <path
+           style="fill:#55ddff;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-linejoin:round"
+           d="m 27.306346,114.18974 -4.023016,2.96225"
+           id="path919-3" />
+        <path
+           style="fill:#55ddff;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-linejoin:round"
+           d="m 27.22532,164.04167 -4.057469,4.70019"
+           id="path921-4" />
+        <path
+           style="fill:#55ddff;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-linejoin:round"
+           d="m 44.942998,164.04167 3.475746,4.70019"
+           id="path923-3" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:14.1111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round"
+         x="55.495846"
+         y="81.843925"
+         id="text990-7"><tspan
+           sodipodi:role="line"
+           id="tspan988-3"
+           style="fill:#000000;stroke:#000000;stroke-width:1"
+           x="55.495846"
+           y="81.843925">W</tspan></text>
+    </g>
+    <g
+       id="g1601"
+       inkscape:export-filename="RedUpArrow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g1455"
+         transform="translate(-42.837904,32.172932)">
+        <path
+           style="fill:#ff0000;fill-opacity:1;stroke:#800000;stroke-width:1;stroke-linejoin:round"
+           d="M 91.399603,191.8605 H 116.6505 l 0.22415,-51.94813 h 12.80129 l -24.93169,-34.7729 -24.420187,35.13115 h 11.191019 z"
+           id="path450-4"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           style="fill:#ff0000;fill-opacity:1;stroke:#800000;stroke-width:0.701665;stroke-linejoin:round"
+           d="m 95.457072,187.16031 h 17.717678 l 0.15728,-50.10331 h 8.98222 l -17.4937,-24.39894 -17.1348,24.65031 h 7.85235 z"
+           id="path450-8-3"
+           sodipodi:nodetypes="cccccccc" />
+        <path
+           style="fill:#55ddff;fill-opacity:1;stroke:#800000;stroke-width:1;stroke-linejoin:round"
+           d="m 87.68575,137.30837 -7.361687,2.96225"
+           id="path911-0" />
+        <path
+           style="fill:#55ddff;fill-opacity:1;stroke:#800000;stroke-width:1;stroke-linejoin:round"
+           d="m 104.82055,112.65806 -0.0763,-7.51859"
+           id="path913-2" />
+        <path
+           style="fill:#55ddff;fill-opacity:1;stroke:#800000;stroke-width:1;stroke-linejoin:round"
+           d="m 122.31425,137.05699 7.36169,2.85537"
+           id="path915-8" />
+        <path
+           style="fill:#55ddff;fill-opacity:1;stroke:#800000;stroke-width:1;stroke-linejoin:round"
+           d="m 113.33203,137.05699 3.54262,2.85537"
+           id="path917-7" />
+        <path
+           style="fill:#55ddff;fill-opacity:1;stroke:#800000;stroke-width:1;stroke-linejoin:round"
+           d="m 95.538098,137.30837 -4.023016,2.96225"
+           id="path919-0" />
+        <path
+           style="fill:#55ddff;fill-opacity:1;stroke:#800000;stroke-width:1;stroke-linejoin:round"
+           d="m 95.457072,187.16031 -4.057469,4.70019"
+           id="path921-9" />
+        <path
+           style="fill:#55ddff;fill-opacity:1;stroke:#800000;stroke-width:1;stroke-linejoin:round"
+           d="m 113.17475,187.16031 3.47575,4.70019"
+           id="path923-5" />
+        <text
+           xml:space="preserve"
+           style="font-size:14.1111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round"
+           x="99.487854"
+           y="153.55051"
+           id="text990-3"><tspan
+             sodipodi:role="line"
+             id="tspan988-2"
+             style="fill:#000000;stroke:#000000;stroke-width:1"
+             x="99.487854"
+             y="153.55051">O</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1614"
+       inkscape:export-filename="RedDownArrow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:#800000;stroke-width:1;stroke-linejoin:round"
+         d="m 155.58661,138.07243 h -25.2509 l -0.22415,51.94813 h -12.80129 l 24.93169,34.7729 24.42019,-35.13115 h -11.19102 z"
+         id="path450-4-1"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:#800000;stroke-width:0.701665;stroke-linejoin:round"
+         d="m 151.52914,142.77262 h -17.71768 l -0.15728,50.10331 h -8.98222 l 17.4937,24.39894 17.1348,-24.65031 h -7.85235 z"
+         id="path450-8-3-3"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         style="fill:#55ddff;fill-opacity:1;stroke:#800000;stroke-width:1;stroke-linejoin:round"
+         d="m 159.30046,192.62456 7.36169,-2.96225"
+         id="path911-0-4" />
+      <path
+         style="fill:#55ddff;fill-opacity:1;stroke:#800000;stroke-width:1;stroke-linejoin:round"
+         d="m 142.16566,217.27487 0.0763,7.51859"
+         id="path913-2-6" />
+      <path
+         style="fill:#55ddff;fill-opacity:1;stroke:#800000;stroke-width:1;stroke-linejoin:round"
+         d="m 124.67196,192.87594 -7.36169,-2.85537"
+         id="path915-8-3" />
+      <path
+         style="fill:#55ddff;fill-opacity:1;stroke:#800000;stroke-width:1;stroke-linejoin:round"
+         d="m 133.65418,192.87594 -3.54262,-2.85537"
+         id="path917-7-6" />
+      <path
+         style="fill:#55ddff;fill-opacity:1;stroke:#800000;stroke-width:1;stroke-linejoin:round"
+         d="m 151.44811,192.62456 4.02302,-2.96225"
+         id="path919-0-1" />
+      <path
+         style="fill:#55ddff;fill-opacity:1;stroke:#800000;stroke-width:1;stroke-linejoin:round"
+         d="m 151.52914,142.77262 4.05747,-4.70019"
+         id="path921-9-0" />
+      <path
+         style="fill:#55ddff;fill-opacity:1;stroke:#800000;stroke-width:1;stroke-linejoin:round"
+         d="m 133.81146,142.77262 -3.47575,-4.70019"
+         id="path923-5-1" />
+      <text
+         xml:space="preserve"
+         style="font-size:14.1111px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round"
+         x="136.77722"
+         y="186.48343"
+         id="text990-3-9"><tspan
+           sodipodi:role="line"
+           id="tspan988-2-3"
+           style="fill:#000000;stroke:#000000;stroke-width:1"
+           x="136.77722"
+           y="186.48343">K</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 55ff49dc10c43ff4a9cdbae79db7ad65
+guid: 8aab2183d9308e94698d054d33bd1b53
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8274967589046660960
-    second: ComfyUI_00005__0
+      213: 4954294577394713503
+    second: BlueButtonGem_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -165,13 +165,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ComfyUI_00005__0
+      name: BlueButtonGem_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
-        height: 1024
+        width: 677
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,8 +180,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06f2ff8fd2796d270800000000000000
-      internalID: 8274967589046660960
+      spriteID: f93814e4ba031c440800000000000000
+      internalID: 4954294577394713503
       vertices: []
       indices: 
       edges: []
@@ -199,8 +199,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      ComfyUI_00005__0: 8274967589046660960
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

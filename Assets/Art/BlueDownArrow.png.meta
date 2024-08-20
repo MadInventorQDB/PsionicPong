@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 37133dc43bea62c4383774d00e94f12e
+guid: b524b0984a4eb9f4abfc71248fea84dd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8471953574199774369
-    second: ComfyUI_00001__0
+      213: 5649187112748586263
+    second: BlueDownArrow_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -165,13 +165,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ComfyUI_00001__0
+      name: BlueDownArrow_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
-        height: 1024
+        width: 190
+        height: 332
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,8 +180,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f53b8305c139d6a80800000000000000
-      internalID: -8471953574199774369
+      spriteID: 71518159fb1f56e40800000000000000
+      internalID: 5649187112748586263
       vertices: []
       indices: 
       edges: []
@@ -199,8 +199,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      ComfyUI_00001__0: -8471953574199774369
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

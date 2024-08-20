@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 32df4d9e952848f4c8393e6608966b02
+guid: d0d756b614f795d478eae47cf1bbc54f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6433702041151875737
-    second: ComfyUI_00009__0
+      213: 4304446102398311253
+    second: QuitButton_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -165,13 +165,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ComfyUI_00009__0
+      name: QuitButton_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
-        height: 1024
+        width: 342
+        height: 222
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,8 +180,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 99a20915be9194950800000000000000
-      internalID: 6433702041151875737
+      spriteID: 55b14489ce67cbb30800000000000000
+      internalID: 4304446102398311253
       vertices: []
       indices: 
       edges: []
@@ -199,8 +199,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      ComfyUI_00009__0: 6433702041151875737
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

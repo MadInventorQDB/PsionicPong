@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 281a5fd20596a8e4ab85fb0ec8c99c72
+guid: 5a31093f772fdb348b6280fc95a1fc88
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 784645654662638095
-    second: ComfyUI_00002__0
+      213: -6628499906678564944
+    second: RedUpArrow_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -165,13 +165,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ComfyUI_00002__0
+      name: RedUpArrow_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
-        height: 1024
+        width: 190
+        height: 332
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,8 +180,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f0a68b0d01f93ea00800000000000000
-      internalID: 784645654662638095
+      spriteID: 0b7d6b44476d204a0800000000000000
+      internalID: -6628499906678564944
       vertices: []
       indices: 
       edges: []
@@ -199,8 +199,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      ComfyUI_00002__0: 784645654662638095
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
