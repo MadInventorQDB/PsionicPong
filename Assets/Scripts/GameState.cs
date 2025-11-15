@@ -85,7 +85,13 @@ public class GameState : MonoBehaviour
     }
 
     public void Quit()
-    { 
+    {
+        if(Application.isEditor)
+        {
+            UnityEditor.EditorApplication.isPlaying = false;
+            return;
+        }
+
         Application.Quit();
     }
 }
